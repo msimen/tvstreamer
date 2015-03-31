@@ -1,0 +1,1 @@
+A PHP system to stream TV with VLC from a computer with Apache-PHP and a TV-Card.
